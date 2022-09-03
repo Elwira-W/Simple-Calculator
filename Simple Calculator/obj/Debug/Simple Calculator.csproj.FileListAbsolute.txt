@@ -1,0 +1,3 @@
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\App.g.cs
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator_MarkupCompile.cache
