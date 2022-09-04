@@ -15,14 +15,16 @@ using System.Windows.Shapes;
 
 namespace Simple_Calculator
 {
-    /// <summary>
-    /// Logika interakcji dla klasy MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Zero_Click(object sender, RoutedEventArgs e)
+        {
+            Result.Text = "0";
         }
     }
 }

@@ -1,3 +1,15 @@
 C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
 C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\App.g.cs
 C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator_MarkupCompile.cache
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator_MarkupCompile.lref
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\MainWindow.baml
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.g.resources
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Elwira\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
