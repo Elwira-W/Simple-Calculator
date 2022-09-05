@@ -24,52 +24,67 @@ namespace Simple_Calculator
 
         private void Zero_Click(object sender, RoutedEventArgs e)
         {
-            
+            Result.Text = Result.Text + 0;
         }
 
         private void One_Click(object sender, RoutedEventArgs e)
         {
-            
+            Result.Text = Result.Text + 1;
         }
 
         private void Two_Click(object sender, RoutedEventArgs e)
         {
-
+            Result.Text = Result.Text + 2;
         }
 
         private void Three_Click(object sender, RoutedEventArgs e)
         {
-
+            Result.Text = Result.Text + 3;
         }
 
         private void Four_Click(object sender, RoutedEventArgs e)
         {
-
+            Result.Text = Result.Text + 4;
         }
 
         private void Five_Click(object sender, RoutedEventArgs e)
         {
-
+            Result.Text = Result.Text + 5;
         }
 
         private void Six_Click(object sender, RoutedEventArgs e)
         {
-
+            Result.Text = Result.Text + 6;
         }
 
         private void Seven_Click(object sender, RoutedEventArgs e)
         {
-
+            Result.Text = Result.Text + 7;
         }
 
         private void Eight_Click(object sender, RoutedEventArgs e)
         {
-
+            Result.Text = Result.Text + 8;
         }
 
         private void Nine_Click(object sender, RoutedEventArgs e)
         {
+            Result.Text = Result.Text + 9;
+        }
 
+        private void Clear_Click(object sender, RoutedEventArgs e)
+        {
+            Result.Clear();
+        }
+
+        private void Plus_Click(object sender, RoutedEventArgs e)
+        {
+            Result.Text = Result.Text + "+";
+        }
+
+        private void EqualSign_Click(object sender, RoutedEventArgs e)
+        {
+           
         }
     }
 }
