@@ -24,7 +24,52 @@ namespace Simple_Calculator
 
         private void Zero_Click(object sender, RoutedEventArgs e)
         {
-            Result.Text = "0";
+            
+        }
+
+        private void One_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void Two_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Three_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Four_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Five_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Six_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Seven_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Eight_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Nine_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
